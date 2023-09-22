@@ -1,0 +1,17 @@
+C:\Code\CompanyEmployees\CompanyEmployees\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Code\CompanyEmployees\CompanyEmployees\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+C:\Code\CompanyEmployees\CompanyEmployees\Repository\bin\Debug\net6.0\Repository.dll
+C:\Code\CompanyEmployees\CompanyEmployees\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Code\CompanyEmployees\CompanyEmployees\Repository\bin\Debug\net6.0\Entities.dll
+C:\Code\CompanyEmployees\CompanyEmployees\Repository\bin\Debug\net6.0\Entities.pdb
+C:\Code\CompanyEmployees\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Code\CompanyEmployees\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\CompanyEmployees\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Code\CompanyEmployees\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Code\CompanyEmployees\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Code\CompanyEmployees\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\Code\CompanyEmployees\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.dll
+C:\Code\CompanyEmployees\CompanyEmployees\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Code\CompanyEmployees\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Code\CompanyEmployees\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+C:\Code\CompanyEmployees\CompanyEmployees\Repository\obj\Debug\net6.0\ref\Repository.dll

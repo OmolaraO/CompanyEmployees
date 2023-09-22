@@ -1,0 +1,17 @@
+C:\Code\CompanyEmployees\CompanyEmployees\LoggerService\bin\Debug\net6.0\LoggerService.deps.json
+C:\Code\CompanyEmployees\CompanyEmployees\LoggerService\bin\Debug\net6.0\LoggerService.runtimeconfig.json
+C:\Code\CompanyEmployees\CompanyEmployees\LoggerService\bin\Debug\net6.0\LoggerService.dll
+C:\Code\CompanyEmployees\CompanyEmployees\LoggerService\bin\Debug\net6.0\LoggerService.pdb
+C:\Code\CompanyEmployees\CompanyEmployees\LoggerService\bin\Debug\net6.0\Contracts.dll
+C:\Code\CompanyEmployees\CompanyEmployees\LoggerService\bin\Debug\net6.0\Contracts.pdb
+C:\Code\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.csproj.AssemblyReference.cache
+C:\Code\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfoInputs.cache
+C:\Code\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfo.cs
+C:\Code\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Code\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CopyComplete
+C:\Code\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.dll
+C:\Code\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
+C:\Code\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.pdb
+C:\Code\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.genruntimeconfig.cache
+C:\Code\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll
